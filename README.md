@@ -27,7 +27,10 @@
 **1. Клонируйте репозиторий**
 > git clone https://github.com/Sofya-Khabibulina/project_3.git cd project_3
 
-** 2. 
+**2. Установите модули из requirements.txt с помощью пакетного менеджера pip**
+> pip install -r requirements.txt
+
+**3. Запустите Jupyter Notebook vacancies_analysis.ipynb, либо каждый скрипт .py отдельно**
 
 ## Как пользоваться дашбордом
 
