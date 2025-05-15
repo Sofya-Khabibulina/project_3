@@ -24,6 +24,9 @@
 ### 4. Выводы
 
 ## Как воспроизвести исследование
+** 1. Клонируйте репозиторий
+git clone https://github.com/Sofya-Khabibulina/project_3.git
+cd project_3
 
 ## Как пользоваться дашбордом
 
